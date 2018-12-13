@@ -1,5 +1,7 @@
-package game;
-
+import game.Choices;
+import game.Game;
+import game.Points;
+import game.Rules;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.mockito.Mock;

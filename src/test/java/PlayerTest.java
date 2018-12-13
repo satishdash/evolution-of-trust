@@ -1,5 +1,3 @@
-package player;
-
 import game.Choices;
 import org.junit.Assert;
 import org.junit.Test;
@@ -7,6 +5,9 @@ import org.junit.runner.RunWith;
 import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.runners.MockitoJUnitRunner;
+import player.ConsolePlayer;
+import player.CopyCatPlayer;
+import player.Player;
 import reader.InputReader;
 import reader.InvalidInputException;
 
@@ -42,6 +43,16 @@ public class PlayerTest {
         Mockito.verify(inputReader).read();
     }
 
+
+    @Test(expected = InvalidInputException.class)
+    public void testInvalidInputException() throws InvalidInputException {
+        Mockito.when(inputReader.read())
+                .thenReturn("abc");
+        Player player = new ConsolePlayer("X", inputReader);
+        player.play();
+    }
+
+
     @Test
     public void copyCatPlayerTest() throws InvalidInputException {
         Mockito.when(inputReader.read())
@@ -61,4 +72,6 @@ public class PlayerTest {
         Assert.assertEquals(choices3,choices4);
 
     }
+
+
 }

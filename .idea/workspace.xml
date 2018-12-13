@@ -24,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Driver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="52" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="52" />
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,10 +33,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/player/CopyCatPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="132">
               <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#534#535#0" expanded="true" />
@@ -63,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/player/PlayerTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PlayerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="53" column="42" lean-forward="true" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
+            <state relative-caret-position="357">
+              <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/player/AbstractPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,7 +103,7 @@
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="131">
-              <caret line="46" column="3" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
+              <caret line="46" column="3" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -173,16 +173,17 @@
         <option value="$PROJECT_DIR$/src/main/java/game/Rules.java" />
         <option value="$PROJECT_DIR$/src/main/java/player/PlayerInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/game/Game.java" />
-        <option value="$PROJECT_DIR$/src/test/java/player/PlayerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/player/Player.java" />
         <option value="$PROJECT_DIR$/src/main/java/player/AbstractPlayer.java" />
         <option value="$PROJECT_DIR$/src/main/java/player/CheatPlayer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Driver.java" />
         <option value="$PROJECT_DIR$/src/main/java/player/ChoicesStack.java" />
         <option value="$PROJECT_DIR$/src/main/java/game/ChoicesStack.java" />
         <option value="$PROJECT_DIR$/src/main/java/game/ChoicesQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/player/ConsolePlayer.java" />
         <option value="$PROJECT_DIR$/src/main/java/player/CopyCatPlayer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/player/PlayerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Driver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PlayerTest.java" />
       </list>
     </option>
   </component>
@@ -228,7 +229,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EvolutionOfTrust" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EvolutionOfTrust" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="player" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EvolutionOfTrust" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EvolutionOfTrust" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="reader" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="EvolutionOfTrust" type="b2602c69:ProjectViewProjectNode" />
@@ -242,14 +259,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EvolutionOfTrust" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EvolutionOfTrust" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="player" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -290,7 +299,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Driver">
+  <component name="RunManager" selected="JUnit.All in eot1.EvolutionOfTrust.test (1)">
     <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Driver" />
       <module name="eot1.EvolutionOfTrust.main" />
@@ -306,15 +315,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in eot1.EvolutionOfTrust.test (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="eot1.EvolutionOfTrust.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="All in eot1.EvolutionOfTrust.test (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in eot1.EvolutionOfTrust.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="eot1.EvolutionOfTrust.test" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -324,9 +325,19 @@
     </configuration>
     <configuration name="PlayerTest.copyCatPlayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="eot1.EvolutionOfTrust.test" />
-      <option name="PACKAGE_NAME" value="player" />
-      <option name="MAIN_CLASS_NAME" value="player.PlayerTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PlayerTest" />
       <option name="METHOD_NAME" value="copyCatPlayerTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerTest.testInvalidInputException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="eot1.EvolutionOfTrust.test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PlayerTest" />
+      <option name="METHOD_NAME" value="testInvalidInputException" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -334,11 +345,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in eot1.EvolutionOfTrust.test (1)" />
+        <item itemvalue="JUnit.PlayerTest.testInvalidInputException" />
+        <item itemvalue="JUnit.All in eot1.EvolutionOfTrust.test" />
         <item itemvalue="Application.Driver" />
         <item itemvalue="JUnit.PlayerTest.copyCatPlayerTest" />
-        <item itemvalue="JUnit.All in eot1.EvolutionOfTrust.test (3)" />
-        <item itemvalue="JUnit.All in eot1.EvolutionOfTrust.test (2)" />
-        <item itemvalue="JUnit.All in eot1.EvolutionOfTrust.test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -356,15 +367,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GameTest_gameStartTest - 2018.12.12 at 17h 12m 07s.xml">
-      <configuration name="GameTest.gameStartTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_eot1_EvolutionOfTrust_test_(3) - 2018.12.12 at 18h 01m 24s.xml">
-      <configuration name="All in eot1.EvolutionOfTrust.test (3)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_eot1_EvolutionOfTrust_test_(2) - 2018.12.12 at 18h 10m 50s.xml">
-      <configuration name="All in eot1.EvolutionOfTrust.test (2)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PlayerTest_copyCatPlayerTest - 2018.12.13 at 10h 05m 55s.xml">
       <configuration name="PlayerTest.copyCatPlayerTest" configurationId="JUnit" />
     </history-entry>
@@ -385,6 +387,15 @@
     </history-entry>
     <history-entry file="All_in_eot1_EvolutionOfTrust_test_(3) - 2018.12.13 at 10h 32m 36s.xml">
       <configuration name="All in eot1.EvolutionOfTrust.test (3)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlayerTest_copyCatPlayerTest - 2018.12.13 at 11h 08m 10s.xml">
+      <configuration name="PlayerTest.copyCatPlayerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlayerTest_copyCatPlayerTest - 2018.12.13 at 11h 08m 48s.xml">
+      <configuration name="PlayerTest.copyCatPlayerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_eot1_EvolutionOfTrust_test - 2018.12.13 at 11h 43m 01s.xml">
+      <configuration name="All in eot1.EvolutionOfTrust.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -505,7 +516,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/game/GameTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/GameTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
@@ -598,16 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/player/PlayerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="53" column="42" lean-forward="true" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/player/Player.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -618,20 +619,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Driver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="52" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/player/AbstractPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -641,7 +632,7 @@
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
-          <caret line="46" column="3" lean-forward="true" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
+          <caret line="46" column="3" selection-start-line="46" selection-start-column="3" selection-end-line="46" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -669,7 +660,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/player/CopyCatPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
+        <state relative-caret-position="132">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#534#535#0" expanded="true" />
@@ -677,6 +668,26 @@
             <element signature="e#1051#1052#0" expanded="true" />
             <element signature="e#1283#1284#0" expanded="true" />
             <element signature="e#1319#1320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PlayerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
